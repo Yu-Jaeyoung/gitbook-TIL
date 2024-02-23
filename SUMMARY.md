@@ -1,7 +1,7 @@
 # Table of contents
 
 * [About](README.md)
-* [✍ Log](log/README.md)
+* [✍️ Log](log/README.md)
   * [😀 231231](log/231231.md)
   * [😀 240101](log/240101.md)
   * [😅 240102](log/240102.md)
@@ -38,3 +38,4 @@
   * [😑 240218](log/240218.md)
   * [🧐 240220](log/240220.md)
   * [😇 240222](log/240222.md)
+  * [🙂 Page](log/page.md)
